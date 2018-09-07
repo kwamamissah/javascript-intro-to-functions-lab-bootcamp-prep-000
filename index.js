@@ -20,11 +20,10 @@ function sayHiToGrandma(string) {
   } 
 }
 
-function sayHiToGrandma(string) {
   if (string === "HELLO") {
     return "YES INDEED!";
   }
-}
+
 
 function sayHiToGrandma(string) {
   if (string === "I love you, Grandma.") {
